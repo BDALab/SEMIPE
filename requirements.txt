@@ -5,7 +5,7 @@ ipyvuetify
 voila-material
 numpy
 pandas
-cv2
+opencv-python
 math
 time
 warnings
