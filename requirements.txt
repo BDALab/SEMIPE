@@ -8,5 +8,4 @@ pandas
 opencv-python==4.2.0.34
 ipywidgets
 ipyfilechooser
-tk
 opencv-contrib-python
