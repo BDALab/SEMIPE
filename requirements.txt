@@ -9,4 +9,3 @@ ipywidgets
 ipyfilechooser
 opencv-contrib-python
 numpy
-nscipy
