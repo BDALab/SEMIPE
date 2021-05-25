@@ -9,4 +9,3 @@ opencv-python==4.2.0.34
 ipywidgets
 ipyfilechooser
 opencv-contrib-python
-tkinter
