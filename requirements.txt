@@ -5,7 +5,7 @@ ipyvuetify
 voila-material
 numpy
 pandas
-opencv-python
+opencv-python==4.2.0.34
 ipywidgets
 ipyfilechooser
 tk
