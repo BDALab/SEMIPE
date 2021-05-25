@@ -4,3 +4,4 @@ libfontconfig1
 libice6
 libgl1
 python3-tk
+tk8.6-dev
