@@ -10,3 +10,4 @@ ipywidgets
 ipyfilechooser
 tk
 opencv-contrib-python
+python3-tk
