@@ -9,7 +9,6 @@ opencv-python==4.2.0.34
 ipywidgets
 ipyfilechooser
 tk
-libxrender1
 libsm6 
 libxext6
 libfontconfig1
