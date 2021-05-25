@@ -1,0 +1,14 @@
+plotly
+kaleido
+psutil
+ipyvuetify
+voila-material
+numpy
+pandas
+cv2
+math
+time
+warnings
+ipywidgets
+ipyfilechooser
+tkinter
