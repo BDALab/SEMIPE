@@ -6,9 +6,6 @@ voila-material
 numpy
 pandas
 opencv-python
-math
-time
-warnings
 ipywidgets
 ipyfilechooser
 tkinter
