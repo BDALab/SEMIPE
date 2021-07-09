@@ -9,4 +9,4 @@ ipywidgets
 ipyfilechooser
 opencv-contrib-python
 numpy
-tk
+openpyxl
