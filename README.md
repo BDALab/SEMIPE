@@ -11,5 +11,8 @@ Important links:
 The easiest way to interact with this repository is to run its web application. 
 
 ### Deploy with Voila by yourself
+'pip install voila'
+
+'voila path/to/your/notebook.ipynb'
 Enjoy!
 
